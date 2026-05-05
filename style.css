@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#bunny-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+
+    /* optional — adds a dark card behind the text so it's readable */
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#bunny-info h2 {
+    margin: 0 0 10px 0;
+    font-size: 22px;
+}
+
+#bunny-info p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#strawberry-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#bean-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#bear-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#pony-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#books-info {
+    position: fixed;
+    left: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#game-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+
+#box-info {
+    position: fixed;
+    right: 150px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#libertyStatue-info {
+    position: fixed;
+    right: 90px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Courier New, sans-serif;
+    max-width: 250px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+}
